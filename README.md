@@ -1,6 +1,6 @@
-app-store-assitant(JS)
+app-store-assitant-JS
 ====================
-A javascript version of [app-store-assistant](https://github.com/wp-plugins/app-store-assistant)
+A javascript version of [app-store-assistant](https://github.com/wp-plugins/app-store-assistant).
 
 Example:
 ========
