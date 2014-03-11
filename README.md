@@ -4,7 +4,7 @@ A javascript version of [app-store-assistant](https://github.com/wp-plugins/app-
 
 Example:
 ========
-Please see [my blog](http://pathof.me).
+Please see [my blog](http://pathof.me/about.html).
 
 How to use:
 ===========
